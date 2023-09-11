@@ -8,10 +8,10 @@
   ],
   "comments": [
     { "id": 1, "body": "good", "postId": 1 }, 
-    { "id": 1, "body": "beautiful", "postId": 1 }, 
-    { "id": 1, "body": "very nice", "postId": 1 }, 
-    { "id": 1, "body": "Super", "postId": 1 }, 
-    { "id": 1, "body": "awesome", "postId": 1 },
+    { "id": 2, "body": "beautiful", "postId": 2 }, 
+    { "id": 3, "body": "very nice", "postId": 3 }, 
+    { "id": 4, "body": "Super", "postId": 4 }, 
+    { "id": 5, "body": "awesome", "postId": 5 },
   ],
   "profile": { "name": "sakib" }
 }
