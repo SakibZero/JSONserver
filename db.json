@@ -1,8 +1,16 @@
 {
   "posts": [
-    { "id": 1, "title": "practice-json-server", "author": "sakib" }
+    { "id": 1, "title": "Create Json Server", "author": "sakib" }
+    { "id": 2, "title": "Run Code in VS Code", "author": "soma" }
+    { "id": 3, "title": "Learn a new skill", "author": "rakib" }
+    { "id": 4, "title": "Take data from JSON server", "author": "asif" }
+    { "id": 5, "title": "Do your regular exercise", "author": "imran" 
   ],
   "comments": [
+    { "id": 1, "body": "good", "postId": 1 } 
+    { "id": 1, "body": "beautiful", "postId": 1 } 
+    { "id": 1, "body": "very nice", "postId": 1 } 
+    { "id": 1, "body": "Super", "postId": 1 } 
     { "id": 1, "body": "awesome", "postId": 1 }
   ],
   "profile": { "name": "sakib" }
