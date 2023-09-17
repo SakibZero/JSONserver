@@ -1,4 +1,1 @@
-# JSONserver
-
-Click here to view this:
-https://SakibZero.github.io/JSONserver/db.json
+https://my-json-server.typicode.com/SakibZero/JSONserver
