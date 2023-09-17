@@ -24,49 +24,41 @@
       "body": "Beautiful",
       "postId": 1
     },
-    
     {
       "id": 3,
       "body": "Osthir",
       "postId": 1
     },
-    
     {
       "id": 4,
       "body": "Gorgeous",
       "postId": 2
-    },
-    
+    },   
     {
       "id": 5,
       "body": "Fabulous",
       "postId": 2
-    },
-    
+    },  
     {
       "id": 6,
       "body": "Wow",
       "postId": 2
-    },
-    
+    },   
     {
       "id": 7,
       "body": "Nice",
       "postId": 3
-    },
-    
+    },  
     {
       "id": 8,
       "body": "Good",
       "postId": 3
     },
-
     {
       "id": 9,
       "body": "Super",
       "postId": 3
     },
-
   ],
   "profile": {
     "name": "SakibZero"
