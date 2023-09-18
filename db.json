@@ -2,15 +2,23 @@
   "posts": [
     {
       "id": 1,
-      "title": "My name is Sakib"
+      "title": "Love your family, work super hard, live your passion --- Gray Vaynerchuk"
     },
     {
       "id": 2,
-      "title": "He is a good boy"
+      "title": "Do the best you can. No one can do more than that --- John Wooden"
     },
     {
       "id": 3,
-      "title": "She is mine"
+      "title": "I never dreames about success. I worked for it --- Estee Lauder"
+    },
+    {
+      "id": 4,
+      "title": "Either you run the day or the day runs you --- Jim Rohn"
+    },
+    {
+      "id": 5,
+      "title": "Alone we can do so little, together we can do so much --- Helen Keller"
     }
   ],
   "comments": [
@@ -58,6 +66,36 @@
       "id": 9,
       "body": "Super",
       "postId": 3
+    },
+    {
+      "id": 10,
+      "body": "Great",
+      "postId": 4
+    },
+    {
+      "id": 11,
+      "body": "That's true",
+      "postId": 4
+    },
+    {
+      "id": 12,
+      "body": "Sounds good",
+      "postId": 4
+    },
+    {
+      "id": 13,
+      "body": "You're right",
+      "postId": 5
+    },
+    {
+      "id": 14,
+      "body": "Well said",
+      "postId": 5
+    },
+    {
+      "id": 15,
+      "body": "Agree",
+      "postId": 5
     }
   ],
   "profile": {
